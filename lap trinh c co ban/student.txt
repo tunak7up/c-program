@@ -1,0 +1,6 @@
+5
+Nguyen Hong Phuong 8 8 9
+Nguyen Van An 6 9 7
+Nhu Thi Nga 4 5 7
+Tran Thi Dung 5 8 6
+Quach Manh Hao 9 6 5

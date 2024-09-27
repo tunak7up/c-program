@@ -1,0 +1,11 @@
+int main(){
+	node *head = NULL; 
+	int cnt = 0;
+	char kitu = ' ';
+	while(kitu != '\n'){ liên tục scanf dãy gồm số và khoảng cách đến khi gặp dấu cách thì thôi. VD: 12 23 43 55 21
+		int x; scanf("%d", &x);
+		themsau(&head, x);
+		kitu = getchar();
+	} 
+	duyet(head);
+}

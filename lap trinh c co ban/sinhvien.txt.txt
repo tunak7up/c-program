@@ -1,0 +1,6 @@
+5
+Nguyen Anh Tuan 7 8 9
+Nguyen Vu Dung 10 10 10
+Nguyen Dang Truong Giang 0 0 0
+Nguyen Vu Tien 6 6 6
+Nguyen Tran Hong Chien 6 7 8
